@@ -1,4 +1,4 @@
-
+import Header from './Components/Header/Header'
 import './App.css'
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <div>Hello Brine</div>
+      <Header/>
     </>
   )
 }
