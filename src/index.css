@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;;
+}
+
+button{
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  color: #085017;
+  background: #fff;
+  transition: all 300ms ease-in;
+  font-weight: 800; 
+}
+
+button:hover{
+  background: #18F244;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
